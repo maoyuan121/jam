@@ -139,7 +139,7 @@ e.g.: a Raspberry Pi (1+ GB RAM) or the smallest [Digital Ocean Basic Droplet (1
 
 ## Jam SDK
 
-如果你想从头开始构建自己的音频室 UI，或者甚至开发一个 Jam bot，那么 Jam 也会提供给你一些工具来完成这些工作！看看 [jam-core](https://gitlab.com/jam-systems/jam/-/tree/master/ui/packages/jam-core), 我们的 npm 包，它将 Jam 的所有功能公开为一个J avaScript 库，而没有规定任何 UI。
+如果你想从头开始构建自己的音频室 UI，或者甚至开发一个 Jam bot，那么 Jam 也会提供给你一些工具来完成这些工作！看看 [jam-core](https://gitlab.com/jam-systems/jam/-/tree/master/ui/packages/jam-core), 我们的 npm 包，它将 Jam 的所有功能公开为一个 JavaScript 库，而没有规定任何 UI。
 
 要想轻松地将 `jam-core` 集成到 React 应用中，请查看配套包 [jam-core-react](https://gitlab.com/jam-systems/jam/-/tree/master/ui/packages/jam-core-react)。官方 Jam 应用本身主要是建立在 `jam-core-react` 的基础上。
 
